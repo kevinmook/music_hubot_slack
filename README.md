@@ -12,6 +12,15 @@ has, etc!
 [hubot]: http://hubot.github.com
 [generator-hubot]: https://github.com/github/generator-hubot
 
+### Running your own music chat bot on Slack
+
+1. Go to https://my.slack.com/services/new/hubot
+1. Pick a Username (we suggest "music" - if you choose another name you'll have a few extra steps)
+1. Make note of the HUBOT_SLACK_TOKEN listed on the next page. It will look something like this: "xoxb-1234-5678-91011-00e4dd"
+
+
+
+
 ### Running music Locally
 
 You can test your hubot by running the following, however some plugins will not
