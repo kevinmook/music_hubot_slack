@@ -1,1 +1,1 @@
-hubot: bin/hubot -a slack
+hubot: bin/hubot -a slack -n music
